@@ -1,0 +1,6 @@
+############Uppgift 1############
+for i in range(11):
+    print(i)
+    if i == 10:
+        print("Go!")
+############Uppgift 1############
